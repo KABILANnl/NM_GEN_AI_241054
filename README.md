@@ -28,4 +28,5 @@ The objective of the project is to predict the captions for the input image. The
 # Accuracy
   
 **BLEU-1 Score:** 0.516
+
 **BLEU-2 Score:** 0.293
